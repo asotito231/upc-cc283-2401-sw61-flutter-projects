@@ -1,0 +1,1 @@
+ /Users/alumnos/Downloads/Untitled/flutter_demo/.dart_tool/flutter_build/d2f74d0e2df45266227aa04fb2446b22/native_assets.yaml: 
